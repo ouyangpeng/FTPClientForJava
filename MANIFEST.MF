@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Splashscreen-image: com/lzw/ftp/res/splash.jpg
+Main-Class: com.lzw.ftp.FTP_Client_Frame
+
